@@ -1,0 +1,9 @@
+{
+  "roar_short":     { "subtitle": "subtitles.tiamut.roar", "sounds": [ { "name": "tiamut:roar_short",     "attenuation_distance": 128 } ] },
+  "roar_long":      { "subtitle": "subtitles.tiamut.roar", "sounds": [ { "name": "tiamut:roar_long",      "attenuation_distance": 160, "stream": true } ] },
+  "roar_challenge": { "subtitle": "subtitles.tiamut.roar", "sounds": [ { "name": "tiamut:roar_challenge", "attenuation_distance": 144 } ] },
+  "bite":    { "subtitle": "subtitles.tiamut.bite",    "sounds": [ { "name": "minecraft:entity.ravager.attack", "type": "event", "pitch": 0.55 } ] },
+  "hurt":    { "subtitle": "subtitles.tiamut.hurt",    "sounds": [ { "name": "minecraft:entity.ravager.hurt",   "type": "event", "pitch": 0.5, "attenuation_distance": 64 } ] },
+  "death":   { "subtitle": "subtitles.tiamut.death",   "sounds": [ { "name": "minecraft:entity.elder_guardian.death", "type": "event", "pitch": 0.45, "attenuation_distance": 96 } ] },
+  "ambient": { "subtitle": "subtitles.tiamut.ambient", "sounds": [ { "name": "minecraft:entity.elder_guardian.ambient", "type": "event", "pitch": 0.5, "attenuation_distance": 64 } ] }
+}

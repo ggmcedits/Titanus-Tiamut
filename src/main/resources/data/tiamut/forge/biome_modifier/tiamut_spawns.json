@@ -1,0 +1,5 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#minecraft:is_deep_ocean",
+  "spawners": { "type": "tiamut:tiamut", "weight": 1, "minCount": 1, "maxCount": 1 }
+}
